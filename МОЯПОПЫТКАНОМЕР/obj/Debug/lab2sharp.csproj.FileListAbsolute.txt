@@ -1,0 +1,10 @@
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\bin\Debug\lab2sharpp.exe.config
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\bin\Debug\lab2sharpp.exe
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\bin\Debug\lab2sharpp.pdb
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharp.csprojAssemblyReference.cache
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharp.Form1.resources
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharpp.Properties.Resources.resources
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharp.csproj.GenerateResource.cache
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharp.csproj.CoreCompileInputs.cache
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharpp.exe
+C:\Users\DevilS\Desktop\lab2csharp-master\МОЯПОПЫТКАНОМЕР\obj\Debug\lab2sharpp.pdb
